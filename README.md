@@ -24,18 +24,11 @@ The process is very simple where we take input of crisp values, pass them throug
 We have developed an example consumer shopping site which implements the proposed consumer sustainable behaviour reward model. 
 The website displays the items along with the 4 environmental impact parameters which we have chosen as our fuzzy inference system inputs.(Only those items are displayed whose sustainability score has already been calculated.)
 
-![1](https://user-images.githubusercontent.com/47008577/121166089-67e5c000-c86e-11eb-996c-97b465265ce1.png)
-
-The website calculates the sustainability scores for each product through the fuzzy inference system described above.
-The consumer can select items based on their needs which are added to their shopping carts and simultaneously calculate their average PSS(Product sustainability score) for current order.
-![2](https://user-images.githubusercontent.com/47008577/121166206-7f24ad80-c86e-11eb-8ac1-5a0cb7b8f781.png)
-
-Couple of admin actions are implemented that are only to be used by admin, listing of items is manual and CSS score is currently updated manually so that malicious entries can be avoided before loading them in the database
-![3](https://user-images.githubusercontent.com/47008577/121166331-9b284f00-c86e-11eb-8d5a-15bd25bc0500.png)
-![4](https://user-images.githubusercontent.com/47008577/121166344-9d8aa900-c86e-11eb-8298-56e66ae66743.png)
-![5](https://user-images.githubusercontent.com/47008577/121166358-a0859980-c86e-11eb-811d-42f631b8b5a7.png)
-
-Thank you
+1. The website calculates the sustainability scores for each product through the fuzzy inference system described above.
+2. The consumer can select items based on their needs which are added to their shopping carts and simultaneously calculate their average PSS(Product sustainability score) for      current order.
+3. Couple of admin actions are implemented that are only to be used by admin, listing of items is manual and CSS score is currently updated manually so that malicious entries      can be avoided before loading them in the database.
+   
+   Thank you
 
 
 
